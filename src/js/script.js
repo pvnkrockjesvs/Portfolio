@@ -27,7 +27,7 @@ $(document).ready(function() {
 
 // Texte defilant
     var typed = new Typed(".typed", {
-        strings: ["Developpeur web.", "Developpeur Linux."],
+        strings: ["Developpeur junior.", "Jeune diplomé.", "Developpeur Linux."],
         typeSpeed: 70,
         loop: true,
         startDelay: 1000,
